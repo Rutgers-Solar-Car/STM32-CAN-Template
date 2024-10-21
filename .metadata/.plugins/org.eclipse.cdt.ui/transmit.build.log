@@ -1,0 +1,10 @@
+20:51:21 **** Incremental Build of configuration Debug for project transmit ****
+make -j22 all 
+arm-none-eabi-size  transmit.elf 
+   text	   data	    bss	    dec	    hex	filename
+   8180	     48	   1616	   9844	   2674	transmit.elf
+Finished building: default.size.stdout
+ 
+
+20:51:21 Build Finished. 0 errors, 0 warnings. (took 143ms)
+
